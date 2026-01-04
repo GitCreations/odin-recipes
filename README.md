@@ -1,1 +1,2 @@
-# odin-recipes
+Here, once completed, will be my first project created with the knowledge gained from following 'The Odin Project'.
+This beginner project with be a recipes page and it will demonstrate that I now have basic knowledge of HTML5 
